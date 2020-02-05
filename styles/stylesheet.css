@@ -1,0 +1,13 @@
+.header {
+    background-color: #808080;
+    color: #ffffff;
+    padding: 50px;
+    border-bottom: 10px;
+    border-bottom-color: #000000;
+}
+
+.footer {
+    background-color: #808080;
+    color: #ffffff;
+    padding: 25px;
+}
